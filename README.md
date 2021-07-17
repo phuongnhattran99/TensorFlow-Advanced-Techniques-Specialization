@@ -7,7 +7,7 @@
 
 4) Explore generative deep learning, and how AIs can create new content, from Style Transfer through Auto Encoding and VAEs to GANs.  
 
-# SKILLS YOU WILL GAIN
+# SKILLS WILL GAIN
 Model Interpretability  
 Custom Training Loops  
 Custom and Exotic Models  
